@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Logbook</title>
+  <meta name="description" content="A personal bodybuilding logbook. Works offline; your data stays on this device.">
+
+  <!-- Installable app (Share → Add to Home Screen) -->
+  <link rel="manifest" href="./manifest.webmanifest">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-title" content="Logbook">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <meta name="theme-color" content="#ffffff" media="(prefers-color-scheme: light)" data-scheme="light">
+  <meta name="theme-color" content="#000000" media="(prefers-color-scheme: dark)" data-scheme="dark">
+  <meta name="format-detection" content="telephone=no">
+  <link rel="apple-touch-icon" href="./icons/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="./icons/favicon-32.png">
+  <link rel="icon" type="image/svg+xml" href="./icons/icon.svg">
+
+  <script>
+    // Apply a forced Light/Dark choice before first paint (preference only; real data is in IndexedDB).
+    try {
+      var t = localStorage.getItem('logbook-theme');
+      if (t === 'light' || t === 'dark') document.documentElement.setAttribute('data-theme', t);
+    } catch (e) {}
+  </script>
+  <link rel="stylesheet" href="./css/app.css">
+</head>
+<body>
+  <div id="app">
+    <div id="banner" role="alert" hidden></div>
+    <main id="tab" class="view"></main>
+    <nav id="tabbar" class="tabbar" aria-label="Sections"></nav>
+    <div id="pages"></div>
+  </div>
+  <div id="overlays"></div>
+  <div id="toast" role="status" aria-live="polite"></div>
+  <noscript><p style="padding:24px;font-family:sans-serif">Logbook needs JavaScript turned on.</p></noscript>
+  <script type="module" src="./js/main.js"></script>
+</body>
+</html>

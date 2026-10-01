@@ -1,0 +1,3068 @@
+{
+  "app": "logbook",
+  "schemaVersion": 1,
+  "canonicalWeightUnit": "lb",
+  "exportedAt": "2026-10-01T23:28:20.447Z",
+  "settings": {
+    "weightUnit": "lb",
+    "theme": "system"
+  },
+  "customExercises": [],
+  "workouts": [
+    {
+      "id": "sample-w-1",
+      "startedAt": 1787248020000,
+      "completedAt": 1787251500000,
+      "isCompleted": true,
+      "notes": "",
+      "exercises": [
+        {
+          "id": "sample-we1-0",
+          "exerciseId": "hack-squat",
+          "notes": "",
+          "sets": [
+            {
+              "id": "sample-s1-0-0",
+              "weight": 180,
+              "reps": 8,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s1-0-1",
+              "weight": 180,
+              "reps": 8,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s1-0-2",
+              "weight": 170,
+              "reps": 8,
+              "isCompleted": true
+            }
+          ]
+        },
+        {
+          "id": "sample-we1-1",
+          "exerciseId": "leg-extension",
+          "notes": "",
+          "sets": [
+            {
+              "id": "sample-s1-1-0",
+              "weight": 120,
+              "reps": 13,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s1-1-1",
+              "weight": 120,
+              "reps": 12,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s1-1-2",
+              "weight": 110,
+              "reps": 12,
+              "isCompleted": true
+            }
+          ]
+        },
+        {
+          "id": "sample-we1-2",
+          "exerciseId": "romanian-deadlift",
+          "notes": "",
+          "sets": [
+            {
+              "id": "sample-s1-2-0",
+              "weight": 185,
+              "reps": 9,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s1-2-1",
+              "weight": 185,
+              "reps": 7,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s1-2-2",
+              "weight": 175,
+              "reps": 8,
+              "isCompleted": true
+            }
+          ]
+        },
+        {
+          "id": "sample-we1-3",
+          "exerciseId": "seated-leg-curl",
+          "notes": "",
+          "sets": [
+            {
+              "id": "sample-s1-3-0",
+              "weight": 100,
+              "reps": 11,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s1-3-1",
+              "weight": 100,
+              "reps": 11,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s1-3-2",
+              "weight": 90,
+              "reps": 11,
+              "isCompleted": true
+            }
+          ]
+        },
+        {
+          "id": "sample-we1-4",
+          "exerciseId": "standing-calf-raise",
+          "notes": "",
+          "sets": [
+            {
+              "id": "sample-s1-4-0",
+              "weight": 150,
+              "reps": 13,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s1-4-1",
+              "weight": 150,
+              "reps": 12,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s1-4-2",
+              "weight": 150,
+              "reps": 11,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s1-4-3",
+              "weight": 140,
+              "reps": 11,
+              "isCompleted": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sample-w-2",
+      "startedAt": 1787335440000,
+      "completedAt": 1787339160000,
+      "isCompleted": true,
+      "notes": "",
+      "exercises": [
+        {
+          "id": "sample-we2-0",
+          "exerciseId": "incline-dumbbell-press",
+          "notes": "Bench notch 4",
+          "sets": [
+            {
+              "id": "sample-s2-0-0",
+              "weight": 60,
+              "reps": 11,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s2-0-1",
+              "weight": 60,
+              "reps": 9,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s2-0-2",
+              "weight": 55,
+              "reps": 10,
+              "isCompleted": true
+            }
+          ]
+        },
+        {
+          "id": "sample-we2-1",
+          "exerciseId": "cable-fly",
+          "notes": "",
+          "sets": [
+            {
+              "id": "sample-s2-1-0",
+              "weight": 30,
+              "reps": 13,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s2-1-1",
+              "weight": 30,
+              "reps": 12,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s2-1-2",
+              "weight": 25,
+              "reps": 12,
+              "isCompleted": true
+            }
+          ]
+        },
+        {
+          "id": "sample-we2-2",
+          "exerciseId": "dumbbell-lateral-raise",
+          "notes": "Slow eccentric",
+          "sets": [
+            {
+              "id": "sample-s2-2-0",
+              "weight": 17.5,
+              "reps": 13,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s2-2-1",
+              "weight": 17.5,
+              "reps": 12,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s2-2-2",
+              "weight": 17.5,
+              "reps": 12,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s2-2-3",
+              "weight": 12.5,
+              "reps": 12,
+              "isCompleted": true
+            }
+          ]
+        },
+        {
+          "id": "sample-we2-3",
+          "exerciseId": "triceps-pushdown",
+          "notes": "",
+          "sets": [
+            {
+              "id": "sample-s2-3-0",
+              "weight": 50,
+              "reps": 12,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s2-3-1",
+              "weight": 50,
+              "reps": 11,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s2-3-2",
+              "weight": 45,
+              "reps": 12,
+              "isCompleted": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sample-w-3",
+      "startedAt": 1787422140000,
+      "completedAt": 1787425380000,
+      "isCompleted": true,
+      "notes": "",
+      "exercises": [
+        {
+          "id": "sample-we3-0",
+          "exerciseId": "lat-pulldown",
+          "notes": "",
+          "sets": [
+            {
+              "id": "sample-s3-0-0",
+              "weight": 130,
+              "reps": 10,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s3-0-1",
+              "weight": 130,
+              "reps": 10,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s3-0-2",
+              "weight": 120,
+              "reps": 11,
+              "isCompleted": true
+            }
+          ]
+        },
+        {
+          "id": "sample-we3-1",
+          "exerciseId": "chest-supported-row",
+          "notes": "Seat 3",
+          "sets": [
+            {
+              "id": "sample-s3-1-0",
+              "weight": 90,
+              "reps": 9,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s3-1-1",
+              "weight": 90,
+              "reps": 9,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s3-1-2",
+              "weight": 85,
+              "reps": 9,
+              "isCompleted": true
+            }
+          ]
+        },
+        {
+          "id": "sample-we3-2",
+          "exerciseId": "preacher-curl",
+          "notes": "",
+          "sets": [
+            {
+              "id": "sample-s3-2-0",
+              "weight": 60,
+              "reps": 10,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s3-2-1",
+              "weight": 60,
+              "reps": 9,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s3-2-2",
+              "weight": 55,
+              "reps": 11,
+              "isCompleted": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sample-w-4",
+      "startedAt": 1787681040000,
+      "completedAt": 1787685300000,
+      "isCompleted": true,
+      "notes": "",
+      "exercises": [
+        {
+          "id": "sample-we4-0",
+          "exerciseId": "lat-pulldown",
+          "notes": "",
+          "sets": [
+            {
+              "id": "sample-s4-0-0",
+              "weight": 130,
+              "reps": 11,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s4-0-1",
+              "weight": 130,
+              "reps": 10,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s4-0-2",
+              "weight": 120,
+              "reps": 10,
+              "isCompleted": true
+            }
+          ]
+        },
+        {
+          "id": "sample-we4-1",
+          "exerciseId": "chest-supported-row",
+          "notes": "Seat 3",
+          "sets": [
+            {
+              "id": "sample-s4-1-0",
+              "weight": 90,
+              "reps": 10,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s4-1-1",
+              "weight": 90,
+              "reps": 8,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s4-1-2",
+              "weight": 85,
+              "reps": 10,
+              "isCompleted": true
+            }
+          ]
+        },
+        {
+          "id": "sample-we4-2",
+          "exerciseId": "preacher-curl",
+          "notes": "",
+          "sets": [
+            {
+              "id": "sample-s4-2-0",
+              "weight": 60,
+              "reps": 10,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s4-2-1",
+              "weight": 60,
+              "reps": 9,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s4-2-2",
+              "weight": 55,
+              "reps": 10,
+              "isCompleted": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sample-w-5",
+      "startedAt": 1787853780000,
+      "completedAt": 1787858040000,
+      "isCompleted": true,
+      "notes": "",
+      "exercises": [
+        {
+          "id": "sample-we5-0",
+          "exerciseId": "hack-squat",
+          "notes": "",
+          "sets": [
+            {
+              "id": "sample-s5-0-0",
+              "weight": 190,
+              "reps": 9,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s5-0-1",
+              "weight": 190,
+              "reps": 7,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s5-0-2",
+              "weight": 180,
+              "reps": 9,
+              "isCompleted": true
+            }
+          ]
+        },
+        {
+          "id": "sample-we5-1",
+          "exerciseId": "leg-extension",
+          "notes": "",
+          "sets": [
+            {
+              "id": "sample-s5-1-0",
+              "weight": 125,
+              "reps": 12,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s5-1-1",
+              "weight": 125,
+              "reps": 11,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s5-1-2",
+              "weight": 115,
+              "reps": 13,
+              "isCompleted": true
+            }
+          ]
+        },
+        {
+          "id": "sample-we5-2",
+          "exerciseId": "romanian-deadlift",
+          "notes": "",
+          "sets": [
+            {
+              "id": "sample-s5-2-0",
+              "weight": 190,
+              "reps": 8,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s5-2-1",
+              "weight": 190,
+              "reps": 7,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s5-2-2",
+              "weight": 180,
+              "reps": 8,
+              "isCompleted": true
+            }
+          ]
+        },
+        {
+          "id": "sample-we5-3",
+          "exerciseId": "seated-leg-curl",
+          "notes": "",
+          "sets": [
+            {
+              "id": "sample-s5-3-0",
+              "weight": 102.5,
+              "reps": 12,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s5-3-1",
+              "weight": 102.5,
+              "reps": 10,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s5-3-2",
+              "weight": 92.5,
+              "reps": 12,
+              "isCompleted": true
+            }
+          ]
+        },
+        {
+          "id": "sample-we5-4",
+          "exerciseId": "standing-calf-raise",
+          "notes": "",
+          "sets": [
+            {
+              "id": "sample-s5-4-0",
+              "weight": 155,
+              "reps": 13,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s5-4-1",
+              "weight": 155,
+              "reps": 11,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s5-4-2",
+              "weight": 155,
+              "reps": 10,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s5-4-3",
+              "weight": 145,
+              "reps": 11,
+              "isCompleted": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sample-w-6",
+      "startedAt": 1787939580000,
+      "completedAt": 1787942520000,
+      "isCompleted": true,
+      "notes": "",
+      "exercises": [
+        {
+          "id": "sample-we6-0",
+          "exerciseId": "incline-dumbbell-press",
+          "notes": "Bench notch 4",
+          "sets": [
+            {
+              "id": "sample-s6-0-0",
+              "weight": 62.5,
+              "reps": 11,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s6-0-1",
+              "weight": 62.5,
+              "reps": 10,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s6-0-2",
+              "weight": 57.5,
+              "reps": 11,
+              "isCompleted": true
+            }
+          ]
+        },
+        {
+          "id": "sample-we6-1",
+          "exerciseId": "cable-fly",
+          "notes": "",
+          "sets": [
+            {
+              "id": "sample-s6-1-0",
+              "weight": 32.5,
+              "reps": 12,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s6-1-1",
+              "weight": 32.5,
+              "reps": 12,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s6-1-2",
+              "weight": 27.5,
+              "reps": 12,
+              "isCompleted": true
+            }
+          ]
+        },
+        {
+          "id": "sample-we6-2",
+          "exerciseId": "dumbbell-lateral-raise",
+          "notes": "Slow eccentric",
+          "sets": [
+            {
+              "id": "sample-s6-2-0",
+              "weight": 17.5,
+              "reps": 13,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s6-2-1",
+              "weight": 17.5,
+              "reps": 13,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s6-2-2",
+              "weight": 17.5,
+              "reps": 11,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s6-2-3",
+              "weight": 12.5,
+              "reps": 13,
+              "isCompleted": true
+            }
+          ]
+        },
+        {
+          "id": "sample-we6-3",
+          "exerciseId": "triceps-pushdown",
+          "notes": "",
+          "sets": [
+            {
+              "id": "sample-s6-3-0",
+              "weight": 52.5,
+              "reps": 12,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s6-3-1",
+              "weight": 52.5,
+              "reps": 10,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s6-3-2",
+              "weight": 47.5,
+              "reps": 12,
+              "isCompleted": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sample-w-7",
+      "startedAt": 1788024960000,
+      "completedAt": 1788028800000,
+      "isCompleted": true,
+      "notes": "",
+      "exercises": [
+        {
+          "id": "sample-we7-0",
+          "exerciseId": "lat-pulldown",
+          "notes": "",
+          "sets": [
+            {
+              "id": "sample-s7-0-0",
+              "weight": 132.5,
+              "reps": 10,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s7-0-1",
+              "weight": 132.5,
+              "reps": 10,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s7-0-2",
+              "weight": 122.5,
+              "reps": 11,
+              "isCompleted": true
+            }
+          ]
+        },
+        {
+          "id": "sample-we7-1",
+          "exerciseId": "chest-supported-row",
+          "notes": "Seat 3",
+          "sets": [
+            {
+              "id": "sample-s7-1-0",
+              "weight": 95,
+              "reps": 9,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s7-1-1",
+              "weight": 95,
+              "reps": 9,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s7-1-2",
+              "weight": 90,
+              "reps": 9,
+              "isCompleted": true
+            }
+          ]
+        },
+        {
+          "id": "sample-we7-2",
+          "exerciseId": "preacher-curl",
+          "notes": "",
+          "sets": [
+            {
+              "id": "sample-s7-2-0",
+              "weight": 62.5,
+              "reps": 10,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s7-2-1",
+              "weight": 62.5,
+              "reps": 10,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s7-2-2",
+              "weight": 57.5,
+              "reps": 11,
+              "isCompleted": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sample-w-8",
+      "startedAt": 1788198120000,
+      "completedAt": 1788201780000,
+      "isCompleted": true,
+      "notes": "",
+      "exercises": [
+        {
+          "id": "sample-we8-0",
+          "exerciseId": "incline-dumbbell-press",
+          "notes": "Bench notch 4",
+          "sets": [
+            {
+              "id": "sample-s8-0-0",
+              "weight": 62.5,
+              "reps": 10,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s8-0-1",
+              "weight": 62.5,
+              "reps": 9,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s8-0-2",
+              "weight": 57.5,
+              "reps": 10,
+              "isCompleted": true
+            }
+          ]
+        },
+        {
+          "id": "sample-we8-1",
+          "exerciseId": "cable-fly",
+          "notes": "",
+          "sets": [
+            {
+              "id": "sample-s8-1-0",
+              "weight": 32.5,
+              "reps": 13,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s8-1-1",
+              "weight": 32.5,
+              "reps": 11,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s8-1-2",
+              "weight": 27.5,
+              "reps": 12,
+              "isCompleted": true
+            }
+          ]
+        },
+        {
+          "id": "sample-we8-2",
+          "exerciseId": "dumbbell-lateral-raise",
+          "notes": "Slow eccentric",
+          "sets": [
+            {
+              "id": "sample-s8-2-0",
+              "weight": 17.5,
+              "reps": 14,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s8-2-1",
+              "weight": 17.5,
+              "reps": 12,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s8-2-2",
+              "weight": 17.5,
+              "reps": 12,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s8-2-3",
+              "weight": 12.5,
+              "reps": 12,
+              "isCompleted": true
+            }
+          ]
+        },
+        {
+          "id": "sample-we8-3",
+          "exerciseId": "triceps-pushdown",
+          "notes": "",
+          "sets": [
+            {
+              "id": "sample-s8-3-0",
+              "weight": 52.5,
+              "reps": 12,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s8-3-1",
+              "weight": 52.5,
+              "reps": 11,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s8-3-2",
+              "weight": 47.5,
+              "reps": 12,
+              "isCompleted": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sample-w-9",
+      "startedAt": 1788543660000,
+      "completedAt": 1788547140000,
+      "isCompleted": true,
+      "notes": "",
+      "exercises": [
+        {
+          "id": "sample-we9-0",
+          "exerciseId": "incline-dumbbell-press",
+          "notes": "Bench notch 4",
+          "sets": [
+            {
+              "id": "sample-s9-0-0",
+              "weight": 65,
+              "reps": 11,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s9-0-1",
+              "weight": 65,
+              "reps": 10,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s9-0-2",
+              "weight": 60,
+              "reps": 11,
+              "isCompleted": true
+            }
+          ]
+        },
+        {
+          "id": "sample-we9-1",
+          "exerciseId": "cable-fly",
+          "notes": "",
+          "sets": [
+            {
+              "id": "sample-s9-1-0",
+              "weight": 32.5,
+              "reps": 12,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s9-1-1",
+              "weight": 32.5,
+              "reps": 12,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s9-1-2",
+              "weight": 27.5,
+              "reps": 13,
+              "isCompleted": true
+            }
+          ]
+        },
+        {
+          "id": "sample-we9-2",
+          "exerciseId": "dumbbell-lateral-raise",
+          "notes": "Slow eccentric",
+          "sets": [
+            {
+              "id": "sample-s9-2-0",
+              "weight": 17.5,
+              "reps": 13,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s9-2-1",
+              "weight": 17.5,
+              "reps": 12,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s9-2-2",
+              "weight": 17.5,
+              "reps": 12,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s9-2-3",
+              "weight": 12.5,
+              "reps": 13,
+              "isCompleted": true
+            }
+          ]
+        },
+        {
+          "id": "sample-we9-3",
+          "exerciseId": "triceps-pushdown",
+          "notes": "",
+          "sets": [
+            {
+              "id": "sample-s9-3-0",
+              "weight": 55,
+              "reps": 12,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s9-3-1",
+              "weight": 55,
+              "reps": 11,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s9-3-2",
+              "weight": 50,
+              "reps": 11,
+              "isCompleted": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sample-w-10",
+      "startedAt": 1788629580000,
+      "completedAt": 1788632760000,
+      "isCompleted": true,
+      "notes": "",
+      "exercises": [
+        {
+          "id": "sample-we10-0",
+          "exerciseId": "lat-pulldown",
+          "notes": "",
+          "sets": [
+            {
+              "id": "sample-s10-0-0",
+              "weight": 135,
+              "reps": 10,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s10-0-1",
+              "weight": 135,
+              "reps": 10,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s10-0-2",
+              "weight": 125,
+              "reps": 10,
+              "isCompleted": true
+            }
+          ]
+        },
+        {
+          "id": "sample-we10-1",
+          "exerciseId": "chest-supported-row",
+          "notes": "Seat 3",
+          "sets": [
+            {
+              "id": "sample-s10-1-0",
+              "weight": 100,
+              "reps": 9,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s10-1-1",
+              "weight": 100,
+              "reps": 9,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s10-1-2",
+              "weight": 90,
+              "reps": 10,
+              "isCompleted": true
+            }
+          ]
+        },
+        {
+          "id": "sample-we10-2",
+          "exerciseId": "preacher-curl",
+          "notes": "",
+          "sets": [
+            {
+              "id": "sample-s10-2-0",
+              "weight": 62.5,
+              "reps": 10,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s10-2-1",
+              "weight": 62.5,
+              "reps": 10,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s10-2-2",
+              "weight": 57.5,
+              "reps": 10,
+              "isCompleted": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sample-w-11",
+      "startedAt": 1788803880000,
+      "completedAt": 1788807840000,
+      "isCompleted": true,
+      "notes": "",
+      "exercises": [
+        {
+          "id": "sample-we11-0",
+          "exerciseId": "incline-dumbbell-press",
+          "notes": "Bench notch 4",
+          "sets": [
+            {
+              "id": "sample-s11-0-0",
+              "weight": 65,
+              "reps": 10,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s11-0-1",
+              "weight": 65,
+              "reps": 10,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s11-0-2",
+              "weight": 60,
+              "reps": 11,
+              "isCompleted": true
+            }
+          ]
+        },
+        {
+          "id": "sample-we11-1",
+          "exerciseId": "cable-fly",
+          "notes": "",
+          "sets": [
+            {
+              "id": "sample-s11-1-0",
+              "weight": 32.5,
+              "reps": 12,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s11-1-1",
+              "weight": 32.5,
+              "reps": 11,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s11-1-2",
+              "weight": 27.5,
+              "reps": 13,
+              "isCompleted": true
+            }
+          ]
+        },
+        {
+          "id": "sample-we11-2",
+          "exerciseId": "dumbbell-lateral-raise",
+          "notes": "Slow eccentric",
+          "sets": [
+            {
+              "id": "sample-s11-2-0",
+              "weight": 17.5,
+              "reps": 13,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s11-2-1",
+              "weight": 17.5,
+              "reps": 13,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s11-2-2",
+              "weight": 17.5,
+              "reps": 11,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s11-2-3",
+              "weight": 12.5,
+              "reps": 13,
+              "isCompleted": true
+            }
+          ]
+        },
+        {
+          "id": "sample-we11-3",
+          "exerciseId": "triceps-pushdown",
+          "notes": "",
+          "sets": [
+            {
+              "id": "sample-s11-3-0",
+              "weight": 55,
+              "reps": 11,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s11-3-1",
+              "weight": 55,
+              "reps": 11,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s11-3-2",
+              "weight": 50,
+              "reps": 12,
+              "isCompleted": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sample-w-12",
+      "startedAt": 1788888900000,
+      "completedAt": 1788892800000,
+      "isCompleted": true,
+      "notes": "",
+      "exercises": [
+        {
+          "id": "sample-we12-0",
+          "exerciseId": "lat-pulldown",
+          "notes": "",
+          "sets": [
+            {
+              "id": "sample-s12-0-0",
+              "weight": 135,
+              "reps": 11,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s12-0-1",
+              "weight": 135,
+              "reps": 10,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s12-0-2",
+              "weight": 125,
+              "reps": 11,
+              "isCompleted": true
+            }
+          ]
+        },
+        {
+          "id": "sample-we12-1",
+          "exerciseId": "chest-supported-row",
+          "notes": "Seat 3",
+          "sets": [
+            {
+              "id": "sample-s12-1-0",
+              "weight": 100,
+              "reps": 9,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s12-1-1",
+              "weight": 100,
+              "reps": 9,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s12-1-2",
+              "weight": 90,
+              "reps": 10,
+              "isCompleted": true
+            }
+          ]
+        },
+        {
+          "id": "sample-we12-2",
+          "exerciseId": "preacher-curl",
+          "notes": "",
+          "sets": [
+            {
+              "id": "sample-s12-2-0",
+              "weight": 62.5,
+              "reps": 10,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s12-2-1",
+              "weight": 62.5,
+              "reps": 9,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s12-2-2",
+              "weight": 57.5,
+              "reps": 10,
+              "isCompleted": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sample-w-13",
+      "startedAt": 1789149780000,
+      "completedAt": 1789153200000,
+      "isCompleted": true,
+      "notes": "",
+      "exercises": [
+        {
+          "id": "sample-we13-0",
+          "exerciseId": "incline-dumbbell-press",
+          "notes": "Bench notch 4",
+          "sets": [
+            {
+              "id": "sample-s13-0-0",
+              "weight": 67.5,
+              "reps": 11,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s13-0-1",
+              "weight": 67.5,
+              "reps": 9,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s13-0-2",
+              "weight": 62.5,
+              "reps": 10,
+              "isCompleted": true
+            }
+          ]
+        },
+        {
+          "id": "sample-we13-1",
+          "exerciseId": "cable-fly",
+          "notes": "",
+          "sets": [
+            {
+              "id": "sample-s13-1-0",
+              "weight": 35,
+              "reps": 13,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s13-1-1",
+              "weight": 35,
+              "reps": 11,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s13-1-2",
+              "weight": 30,
+              "reps": 13,
+              "isCompleted": true
+            }
+          ]
+        },
+        {
+          "id": "sample-we13-2",
+          "exerciseId": "dumbbell-lateral-raise",
+          "notes": "Slow eccentric",
+          "sets": [
+            {
+              "id": "sample-s13-2-0",
+              "weight": 20,
+              "reps": 13,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s13-2-1",
+              "weight": 20,
+              "reps": 12,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s13-2-2",
+              "weight": 20,
+              "reps": 12,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s13-2-3",
+              "weight": 15,
+              "reps": 12,
+              "isCompleted": true
+            }
+          ]
+        },
+        {
+          "id": "sample-we13-3",
+          "exerciseId": "triceps-pushdown",
+          "notes": "",
+          "sets": [
+            {
+              "id": "sample-s13-3-0",
+              "weight": 57.5,
+              "reps": 11,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s13-3-1",
+              "weight": 57.5,
+              "reps": 10,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s13-3-2",
+              "weight": 52.5,
+              "reps": 12,
+              "isCompleted": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sample-w-14",
+      "startedAt": 1789234980000,
+      "completedAt": 1789238280000,
+      "isCompleted": true,
+      "notes": "",
+      "exercises": [
+        {
+          "id": "sample-we14-0",
+          "exerciseId": "lat-pulldown",
+          "notes": "",
+          "sets": [
+            {
+              "id": "sample-s14-0-0",
+              "weight": 137.5,
+              "reps": 11,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s14-0-1",
+              "weight": 137.5,
+              "reps": 9,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s14-0-2",
+              "weight": 127.5,
+              "reps": 10,
+              "isCompleted": true
+            }
+          ]
+        },
+        {
+          "id": "sample-we14-1",
+          "exerciseId": "chest-supported-row",
+          "notes": "Seat 3",
+          "sets": [
+            {
+              "id": "sample-s14-1-0",
+              "weight": 105,
+              "reps": 10,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s14-1-1",
+              "weight": 105,
+              "reps": 9,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s14-1-2",
+              "weight": 95,
+              "reps": 10,
+              "isCompleted": true
+            }
+          ]
+        },
+        {
+          "id": "sample-we14-2",
+          "exerciseId": "preacher-curl",
+          "notes": "",
+          "sets": [
+            {
+              "id": "sample-s14-2-0",
+              "weight": 65,
+              "reps": 11,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s14-2-1",
+              "weight": 65,
+              "reps": 10,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s14-2-2",
+              "weight": 60,
+              "reps": 11,
+              "isCompleted": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sample-w-15",
+      "startedAt": 1789408740000,
+      "completedAt": 1789411980000,
+      "isCompleted": true,
+      "notes": "",
+      "exercises": [
+        {
+          "id": "sample-we15-0",
+          "exerciseId": "incline-dumbbell-press",
+          "notes": "Bench notch 4",
+          "sets": [
+            {
+              "id": "sample-s15-0-0",
+              "weight": 67.5,
+              "reps": 10,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s15-0-1",
+              "weight": 67.5,
+              "reps": 9,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s15-0-2",
+              "weight": 62.5,
+              "reps": 11,
+              "isCompleted": true
+            }
+          ]
+        },
+        {
+          "id": "sample-we15-1",
+          "exerciseId": "cable-fly",
+          "notes": "",
+          "sets": [
+            {
+              "id": "sample-s15-1-0",
+              "weight": 35,
+              "reps": 13,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s15-1-1",
+              "weight": 35,
+              "reps": 11,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s15-1-2",
+              "weight": 30,
+              "reps": 13,
+              "isCompleted": true
+            }
+          ]
+        },
+        {
+          "id": "sample-we15-2",
+          "exerciseId": "dumbbell-lateral-raise",
+          "notes": "Slow eccentric",
+          "sets": [
+            {
+              "id": "sample-s15-2-0",
+              "weight": 20,
+              "reps": 13,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s15-2-1",
+              "weight": 20,
+              "reps": 12,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s15-2-2",
+              "weight": 20,
+              "reps": 11,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s15-2-3",
+              "weight": 15,
+              "reps": 12,
+              "isCompleted": true
+            }
+          ]
+        },
+        {
+          "id": "sample-we15-3",
+          "exerciseId": "triceps-pushdown",
+          "notes": "",
+          "sets": [
+            {
+              "id": "sample-s15-3-0",
+              "weight": 57.5,
+              "reps": 11,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s15-3-1",
+              "weight": 57.5,
+              "reps": 10,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s15-3-2",
+              "weight": 52.5,
+              "reps": 12,
+              "isCompleted": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sample-w-16",
+      "startedAt": 1789494000000,
+      "completedAt": 1789497600000,
+      "isCompleted": true,
+      "notes": "",
+      "exercises": [
+        {
+          "id": "sample-we16-0",
+          "exerciseId": "lat-pulldown",
+          "notes": "",
+          "sets": [
+            {
+              "id": "sample-s16-0-0",
+              "weight": 137.5,
+              "reps": 11,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s16-0-1",
+              "weight": 137.5,
+              "reps": 9,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s16-0-2",
+              "weight": 127.5,
+              "reps": 11,
+              "isCompleted": true
+            }
+          ]
+        },
+        {
+          "id": "sample-we16-1",
+          "exerciseId": "chest-supported-row",
+          "notes": "Seat 3",
+          "sets": [
+            {
+              "id": "sample-s16-1-0",
+              "weight": 105,
+              "reps": 10,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s16-1-1",
+              "weight": 105,
+              "reps": 8,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s16-1-2",
+              "weight": 95,
+              "reps": 9,
+              "isCompleted": true
+            }
+          ]
+        },
+        {
+          "id": "sample-we16-2",
+          "exerciseId": "preacher-curl",
+          "notes": "",
+          "sets": [
+            {
+              "id": "sample-s16-2-0",
+              "weight": 65,
+              "reps": 11,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s16-2-1",
+              "weight": 65,
+              "reps": 10,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s16-2-2",
+              "weight": 60,
+              "reps": 11,
+              "isCompleted": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sample-w-17",
+      "startedAt": 1789667760000,
+      "completedAt": 1789671960000,
+      "isCompleted": true,
+      "notes": "",
+      "exercises": [
+        {
+          "id": "sample-we17-0",
+          "exerciseId": "hack-squat",
+          "notes": "",
+          "sets": [
+            {
+              "id": "sample-s17-0-0",
+              "weight": 220,
+              "reps": 9,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s17-0-1",
+              "weight": 220,
+              "reps": 8,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s17-0-2",
+              "weight": 210,
+              "reps": 9,
+              "isCompleted": true
+            }
+          ]
+        },
+        {
+          "id": "sample-we17-1",
+          "exerciseId": "leg-extension",
+          "notes": "",
+          "sets": [
+            {
+              "id": "sample-s17-1-0",
+              "weight": 140,
+              "reps": 12,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s17-1-1",
+              "weight": 140,
+              "reps": 12,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s17-1-2",
+              "weight": 130,
+              "reps": 12,
+              "isCompleted": true
+            }
+          ]
+        },
+        {
+          "id": "sample-we17-2",
+          "exerciseId": "romanian-deadlift",
+          "notes": "",
+          "sets": [
+            {
+              "id": "sample-s17-2-0",
+              "weight": 205,
+              "reps": 8,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s17-2-1",
+              "weight": 205,
+              "reps": 7,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s17-2-2",
+              "weight": 195,
+              "reps": 9,
+              "isCompleted": true
+            }
+          ]
+        },
+        {
+          "id": "sample-we17-3",
+          "exerciseId": "seated-leg-curl",
+          "notes": "",
+          "sets": [
+            {
+              "id": "sample-s17-3-0",
+              "weight": 110,
+              "reps": 11,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s17-3-1",
+              "weight": 110,
+              "reps": 11,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s17-3-2",
+              "weight": 100,
+              "reps": 11,
+              "isCompleted": true
+            }
+          ]
+        },
+        {
+          "id": "sample-we17-4",
+          "exerciseId": "standing-calf-raise",
+          "notes": "",
+          "sets": [
+            {
+              "id": "sample-s17-4-0",
+              "weight": 170,
+              "reps": 13,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s17-4-1",
+              "weight": 170,
+              "reps": 11,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s17-4-2",
+              "weight": 170,
+              "reps": 11,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s17-4-3",
+              "weight": 160,
+              "reps": 11,
+              "isCompleted": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sample-w-18",
+      "startedAt": 1789753440000,
+      "completedAt": 1789756860000,
+      "isCompleted": true,
+      "notes": "",
+      "exercises": [
+        {
+          "id": "sample-we18-0",
+          "exerciseId": "incline-dumbbell-press",
+          "notes": "Bench notch 4",
+          "sets": [
+            {
+              "id": "sample-s18-0-0",
+              "weight": 70,
+              "reps": 11,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s18-0-1",
+              "weight": 70,
+              "reps": 9,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s18-0-2",
+              "weight": 65,
+              "reps": 10,
+              "isCompleted": true
+            }
+          ]
+        },
+        {
+          "id": "sample-we18-1",
+          "exerciseId": "cable-fly",
+          "notes": "",
+          "sets": [
+            {
+              "id": "sample-s18-1-0",
+              "weight": 35,
+              "reps": 13,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s18-1-1",
+              "weight": 35,
+              "reps": 12,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s18-1-2",
+              "weight": 30,
+              "reps": 12,
+              "isCompleted": true
+            }
+          ]
+        },
+        {
+          "id": "sample-we18-2",
+          "exerciseId": "dumbbell-lateral-raise",
+          "notes": "Slow eccentric",
+          "sets": [
+            {
+              "id": "sample-s18-2-0",
+              "weight": 20,
+              "reps": 14,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s18-2-1",
+              "weight": 20,
+              "reps": 13,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s18-2-2",
+              "weight": 20,
+              "reps": 12,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s18-2-3",
+              "weight": 15,
+              "reps": 12,
+              "isCompleted": true
+            }
+          ]
+        },
+        {
+          "id": "sample-we18-3",
+          "exerciseId": "triceps-pushdown",
+          "notes": "",
+          "sets": [
+            {
+              "id": "sample-s18-3-0",
+              "weight": 60,
+              "reps": 11,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s18-3-1",
+              "weight": 60,
+              "reps": 10,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s18-3-2",
+              "weight": 55,
+              "reps": 12,
+              "isCompleted": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sample-w-19",
+      "startedAt": 1789839960000,
+      "completedAt": 1789844100000,
+      "isCompleted": true,
+      "notes": "",
+      "exercises": [
+        {
+          "id": "sample-we19-0",
+          "exerciseId": "lat-pulldown",
+          "notes": "",
+          "sets": [
+            {
+              "id": "sample-s19-0-0",
+              "weight": 140,
+              "reps": 11,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s19-0-1",
+              "weight": 140,
+              "reps": 10,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s19-0-2",
+              "weight": 130,
+              "reps": 10,
+              "isCompleted": true
+            }
+          ]
+        },
+        {
+          "id": "sample-we19-1",
+          "exerciseId": "chest-supported-row",
+          "notes": "Seat 3",
+          "sets": [
+            {
+              "id": "sample-s19-1-0",
+              "weight": 110,
+              "reps": 9,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s19-1-1",
+              "weight": 110,
+              "reps": 8,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s19-1-2",
+              "weight": 100,
+              "reps": 9,
+              "isCompleted": true
+            }
+          ]
+        },
+        {
+          "id": "sample-we19-2",
+          "exerciseId": "preacher-curl",
+          "notes": "",
+          "sets": [
+            {
+              "id": "sample-s19-2-0",
+              "weight": 65,
+              "reps": 11,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s19-2-1",
+              "weight": 65,
+              "reps": 10,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s19-2-2",
+              "weight": 60,
+              "reps": 11,
+              "isCompleted": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sample-w-20",
+      "startedAt": 1790011800000,
+      "completedAt": 1790015940000,
+      "isCompleted": true,
+      "notes": "",
+      "exercises": [
+        {
+          "id": "sample-we20-0",
+          "exerciseId": "incline-dumbbell-press",
+          "notes": "Bench notch 4",
+          "sets": [
+            {
+              "id": "sample-s20-0-0",
+              "weight": 70,
+              "reps": 11,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s20-0-1",
+              "weight": 70,
+              "reps": 9,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s20-0-2",
+              "weight": 65,
+              "reps": 10,
+              "isCompleted": true
+            }
+          ]
+        },
+        {
+          "id": "sample-we20-1",
+          "exerciseId": "cable-fly",
+          "notes": "",
+          "sets": [
+            {
+              "id": "sample-s20-1-0",
+              "weight": 35,
+              "reps": 12,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s20-1-1",
+              "weight": 35,
+              "reps": 12,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s20-1-2",
+              "weight": 30,
+              "reps": 12,
+              "isCompleted": true
+            }
+          ]
+        },
+        {
+          "id": "sample-we20-2",
+          "exerciseId": "dumbbell-lateral-raise",
+          "notes": "Slow eccentric",
+          "sets": [
+            {
+              "id": "sample-s20-2-0",
+              "weight": 20,
+              "reps": 14,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s20-2-1",
+              "weight": 20,
+              "reps": 13,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s20-2-2",
+              "weight": 20,
+              "reps": 11,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s20-2-3",
+              "weight": 15,
+              "reps": 13,
+              "isCompleted": true
+            }
+          ]
+        },
+        {
+          "id": "sample-we20-3",
+          "exerciseId": "triceps-pushdown",
+          "notes": "",
+          "sets": [
+            {
+              "id": "sample-s20-3-0",
+              "weight": 60,
+              "reps": 12,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s20-3-1",
+              "weight": 60,
+              "reps": 11,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s20-3-2",
+              "weight": 55,
+              "reps": 11,
+              "isCompleted": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sample-w-21",
+      "startedAt": 1790098980000,
+      "completedAt": 1790102880000,
+      "isCompleted": true,
+      "notes": "",
+      "exercises": [
+        {
+          "id": "sample-we21-0",
+          "exerciseId": "lat-pulldown",
+          "notes": "",
+          "sets": [
+            {
+              "id": "sample-s21-0-0",
+              "weight": 140,
+              "reps": 11,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s21-0-1",
+              "weight": 140,
+              "reps": 9,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s21-0-2",
+              "weight": 130,
+              "reps": 10,
+              "isCompleted": true
+            }
+          ]
+        },
+        {
+          "id": "sample-we21-1",
+          "exerciseId": "chest-supported-row",
+          "notes": "Seat 3",
+          "sets": [
+            {
+              "id": "sample-s21-1-0",
+              "weight": 110,
+              "reps": 10,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s21-1-1",
+              "weight": 110,
+              "reps": 9,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s21-1-2",
+              "weight": 100,
+              "reps": 10,
+              "isCompleted": true
+            }
+          ]
+        },
+        {
+          "id": "sample-we21-2",
+          "exerciseId": "preacher-curl",
+          "notes": "",
+          "sets": [
+            {
+              "id": "sample-s21-2-0",
+              "weight": 65,
+              "reps": 11,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s21-2-1",
+              "weight": 65,
+              "reps": 10,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s21-2-2",
+              "weight": 60,
+              "reps": 10,
+              "isCompleted": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sample-w-22",
+      "startedAt": 1790271360000,
+      "completedAt": 1790274780000,
+      "isCompleted": true,
+      "notes": "",
+      "exercises": [
+        {
+          "id": "sample-we22-0",
+          "exerciseId": "hack-squat",
+          "notes": "",
+          "sets": [
+            {
+              "id": "sample-s22-0-0",
+              "weight": 230,
+              "reps": 9,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s22-0-1",
+              "weight": 230,
+              "reps": 7,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s22-0-2",
+              "weight": 220,
+              "reps": 9,
+              "isCompleted": true
+            }
+          ]
+        },
+        {
+          "id": "sample-we22-1",
+          "exerciseId": "leg-extension",
+          "notes": "",
+          "sets": [
+            {
+              "id": "sample-s22-1-0",
+              "weight": 145,
+              "reps": 12,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s22-1-1",
+              "weight": 145,
+              "reps": 11,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s22-1-2",
+              "weight": 135,
+              "reps": 13,
+              "isCompleted": true
+            }
+          ]
+        },
+        {
+          "id": "sample-we22-2",
+          "exerciseId": "romanian-deadlift",
+          "notes": "",
+          "sets": [
+            {
+              "id": "sample-s22-2-0",
+              "weight": 210,
+              "reps": 8,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s22-2-1",
+              "weight": 210,
+              "reps": 8,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s22-2-2",
+              "weight": 200,
+              "reps": 8,
+              "isCompleted": true
+            }
+          ]
+        },
+        {
+          "id": "sample-we22-3",
+          "exerciseId": "seated-leg-curl",
+          "notes": "",
+          "sets": [
+            {
+              "id": "sample-s22-3-0",
+              "weight": 112.5,
+              "reps": 11,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s22-3-1",
+              "weight": 112.5,
+              "reps": 11,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s22-3-2",
+              "weight": 102.5,
+              "reps": 12,
+              "isCompleted": true
+            }
+          ]
+        },
+        {
+          "id": "sample-we22-4",
+          "exerciseId": "standing-calf-raise",
+          "notes": "",
+          "sets": [
+            {
+              "id": "sample-s22-4-0",
+              "weight": 175,
+              "reps": 13,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s22-4-1",
+              "weight": 175,
+              "reps": 11,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s22-4-2",
+              "weight": 175,
+              "reps": 10,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s22-4-3",
+              "weight": 165,
+              "reps": 12,
+              "isCompleted": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sample-w-23",
+      "startedAt": 1790357880000,
+      "completedAt": 1790361600000,
+      "isCompleted": true,
+      "notes": "",
+      "exercises": [
+        {
+          "id": "sample-we23-0",
+          "exerciseId": "incline-dumbbell-press",
+          "notes": "Bench notch 4",
+          "sets": [
+            {
+              "id": "sample-s23-0-0",
+              "weight": 72.5,
+              "reps": 10,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s23-0-1",
+              "weight": 72.5,
+              "reps": 9,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s23-0-2",
+              "weight": 67.5,
+              "reps": 10,
+              "isCompleted": true
+            }
+          ]
+        },
+        {
+          "id": "sample-we23-1",
+          "exerciseId": "cable-fly",
+          "notes": "",
+          "sets": [
+            {
+              "id": "sample-s23-1-0",
+              "weight": 37.5,
+              "reps": 13,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s23-1-1",
+              "weight": 37.5,
+              "reps": 11,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s23-1-2",
+              "weight": 32.5,
+              "reps": 13,
+              "isCompleted": true
+            }
+          ]
+        },
+        {
+          "id": "sample-we23-2",
+          "exerciseId": "dumbbell-lateral-raise",
+          "notes": "Slow eccentric",
+          "sets": [
+            {
+              "id": "sample-s23-2-0",
+              "weight": 20,
+              "reps": 13,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s23-2-1",
+              "weight": 20,
+              "reps": 12,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s23-2-2",
+              "weight": 20,
+              "reps": 11,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s23-2-3",
+              "weight": 15,
+              "reps": 12,
+              "isCompleted": true
+            }
+          ]
+        },
+        {
+          "id": "sample-we23-3",
+          "exerciseId": "triceps-pushdown",
+          "notes": "",
+          "sets": [
+            {
+              "id": "sample-s23-3-0",
+              "weight": 62.5,
+              "reps": 11,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s23-3-1",
+              "weight": 62.5,
+              "reps": 11,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s23-3-2",
+              "weight": 57.5,
+              "reps": 11,
+              "isCompleted": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sample-w-24",
+      "startedAt": 1790444520000,
+      "completedAt": 1790447820000,
+      "isCompleted": true,
+      "notes": "",
+      "exercises": [
+        {
+          "id": "sample-we24-0",
+          "exerciseId": "lat-pulldown",
+          "notes": "",
+          "sets": [
+            {
+              "id": "sample-s24-0-0",
+              "weight": 142.5,
+              "reps": 10,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s24-0-1",
+              "weight": 142.5,
+              "reps": 10,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s24-0-2",
+              "weight": 132.5,
+              "reps": 10,
+              "isCompleted": true
+            }
+          ]
+        },
+        {
+          "id": "sample-we24-1",
+          "exerciseId": "chest-supported-row",
+          "notes": "Seat 3",
+          "sets": [
+            {
+              "id": "sample-s24-1-0",
+              "weight": 115,
+              "reps": 9,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s24-1-1",
+              "weight": 115,
+              "reps": 8,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s24-1-2",
+              "weight": 105,
+              "reps": 9,
+              "isCompleted": true
+            }
+          ]
+        },
+        {
+          "id": "sample-we24-2",
+          "exerciseId": "preacher-curl",
+          "notes": "",
+          "sets": [
+            {
+              "id": "sample-s24-2-0",
+              "weight": 67.5,
+              "reps": 11,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s24-2-1",
+              "weight": 67.5,
+              "reps": 9,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s24-2-2",
+              "weight": 62.5,
+              "reps": 10,
+              "isCompleted": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sample-w-25",
+      "startedAt": 1790617080000,
+      "completedAt": 1790621220000,
+      "isCompleted": true,
+      "notes": "",
+      "exercises": [
+        {
+          "id": "sample-we25-0",
+          "exerciseId": "incline-dumbbell-press",
+          "notes": "Bench notch 4",
+          "sets": [
+            {
+              "id": "sample-s25-0-0",
+              "weight": 72.5,
+              "reps": 10,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s25-0-1",
+              "weight": 72.5,
+              "reps": 10,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s25-0-2",
+              "weight": 67.5,
+              "reps": 11,
+              "isCompleted": true
+            }
+          ]
+        },
+        {
+          "id": "sample-we25-1",
+          "exerciseId": "cable-fly",
+          "notes": "",
+          "sets": [
+            {
+              "id": "sample-s25-1-0",
+              "weight": 37.5,
+              "reps": 12,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s25-1-1",
+              "weight": 37.5,
+              "reps": 11,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s25-1-2",
+              "weight": 32.5,
+              "reps": 13,
+              "isCompleted": true
+            }
+          ]
+        },
+        {
+          "id": "sample-we25-2",
+          "exerciseId": "dumbbell-lateral-raise",
+          "notes": "Slow eccentric",
+          "sets": [
+            {
+              "id": "sample-s25-2-0",
+              "weight": 20,
+              "reps": 13,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s25-2-1",
+              "weight": 20,
+              "reps": 13,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s25-2-2",
+              "weight": 20,
+              "reps": 12,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s25-2-3",
+              "weight": 15,
+              "reps": 12,
+              "isCompleted": true
+            }
+          ]
+        },
+        {
+          "id": "sample-we25-3",
+          "exerciseId": "triceps-pushdown",
+          "notes": "",
+          "sets": [
+            {
+              "id": "sample-s25-3-0",
+              "weight": 62.5,
+              "reps": 11,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s25-3-1",
+              "weight": 62.5,
+              "reps": 11,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s25-3-2",
+              "weight": 57.5,
+              "reps": 11,
+              "isCompleted": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sample-w-26",
+      "startedAt": 1790703480000,
+      "completedAt": 1790707140000,
+      "isCompleted": true,
+      "notes": "",
+      "exercises": [
+        {
+          "id": "sample-we26-0",
+          "exerciseId": "lat-pulldown",
+          "notes": "",
+          "sets": [
+            {
+              "id": "sample-s26-0-0",
+              "weight": 142.5,
+              "reps": 10,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s26-0-1",
+              "weight": 142.5,
+              "reps": 9,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s26-0-2",
+              "weight": 132.5,
+              "reps": 10,
+              "isCompleted": true
+            }
+          ]
+        },
+        {
+          "id": "sample-we26-1",
+          "exerciseId": "chest-supported-row",
+          "notes": "Seat 3",
+          "sets": [
+            {
+              "id": "sample-s26-1-0",
+              "weight": 115,
+              "reps": 10,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s26-1-1",
+              "weight": 115,
+              "reps": 9,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s26-1-2",
+              "weight": 105,
+              "reps": 9,
+              "isCompleted": true
+            }
+          ]
+        },
+        {
+          "id": "sample-we26-2",
+          "exerciseId": "preacher-curl",
+          "notes": "",
+          "sets": [
+            {
+              "id": "sample-s26-2-0",
+              "weight": 67.5,
+              "reps": 10,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s26-2-1",
+              "weight": 67.5,
+              "reps": 10,
+              "isCompleted": true
+            },
+            {
+              "id": "sample-s26-2-2",
+              "weight": 62.5,
+              "reps": 10,
+              "isCompleted": true
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "bodyMeasurements": [
+    {
+      "id": "sample-b-45",
+      "date": "2026-08-17",
+      "weight": 187.3,
+      "bodyFat": 14.6,
+      "createdAt": 1786950000000,
+      "updatedAt": 1786950000000
+    },
+    {
+      "id": "sample-b-44",
+      "date": "2026-08-18",
+      "weight": 187.3,
+      "bodyFat": 14.5,
+      "createdAt": 1787036400000,
+      "updatedAt": 1787036400000
+    },
+    {
+      "id": "sample-b-43",
+      "date": "2026-08-19",
+      "weight": 187.4,
+      "bodyFat": 14.7,
+      "createdAt": 1787122800000,
+      "updatedAt": 1787122800000
+    },
+    {
+      "id": "sample-b-42",
+      "date": "2026-08-20",
+      "weight": 187.3,
+      "bodyFat": 14.5,
+      "createdAt": 1787209200000,
+      "updatedAt": 1787209200000
+    },
+    {
+      "id": "sample-b-41",
+      "date": "2026-08-21",
+      "weight": 187,
+      "bodyFat": 14.6,
+      "createdAt": 1787295600000,
+      "updatedAt": 1787295600000
+    },
+    {
+      "id": "sample-b-40",
+      "date": "2026-08-22",
+      "weight": 187.2,
+      "bodyFat": 14.7,
+      "createdAt": 1787382000000,
+      "updatedAt": 1787382000000
+    },
+    {
+      "id": "sample-b-39",
+      "date": "2026-08-23",
+      "weight": 186.6,
+      "bodyFat": 14.4,
+      "createdAt": 1787468400000,
+      "updatedAt": 1787468400000
+    },
+    {
+      "id": "sample-b-38",
+      "date": "2026-08-24",
+      "weight": 186.7,
+      "bodyFat": 14.7,
+      "createdAt": 1787554800000,
+      "updatedAt": 1787554800000
+    },
+    {
+      "id": "sample-b-37",
+      "date": "2026-08-25",
+      "weight": 187,
+      "bodyFat": 14.6,
+      "createdAt": 1787641200000,
+      "updatedAt": 1787641200000
+    },
+    {
+      "id": "sample-b-36",
+      "date": "2026-08-26",
+      "weight": 186.2,
+      "bodyFat": 14.4,
+      "createdAt": 1787727600000,
+      "updatedAt": 1787727600000
+    },
+    {
+      "id": "sample-b-35",
+      "date": "2026-08-27",
+      "weight": 186.4,
+      "bodyFat": null,
+      "createdAt": 1787814000000,
+      "updatedAt": 1787814000000
+    },
+    {
+      "id": "sample-b-34",
+      "date": "2026-08-28",
+      "weight": 186.4,
+      "bodyFat": null,
+      "createdAt": 1787900400000,
+      "updatedAt": 1787900400000
+    },
+    {
+      "id": "sample-b-33",
+      "date": "2026-08-29",
+      "weight": 187.1,
+      "bodyFat": null,
+      "createdAt": 1787986800000,
+      "updatedAt": 1787986800000
+    },
+    {
+      "id": "sample-b-32",
+      "date": "2026-08-30",
+      "weight": 186.1,
+      "bodyFat": 14.4,
+      "createdAt": 1788073200000,
+      "updatedAt": 1788073200000
+    },
+    {
+      "id": "sample-b-31",
+      "date": "2026-08-31",
+      "weight": 186.7,
+      "bodyFat": 14.5,
+      "createdAt": 1788159600000,
+      "updatedAt": 1788159600000
+    },
+    {
+      "id": "sample-b-30",
+      "date": "2026-09-01",
+      "weight": 186.6,
+      "bodyFat": 14.4,
+      "createdAt": 1788246000000,
+      "updatedAt": 1788246000000
+    },
+    {
+      "id": "sample-b-29",
+      "date": "2026-09-02",
+      "weight": 186.7,
+      "bodyFat": null,
+      "createdAt": 1788332400000,
+      "updatedAt": 1788332400000
+    },
+    {
+      "id": "sample-b-27",
+      "date": "2026-09-04",
+      "weight": 186.6,
+      "bodyFat": null,
+      "createdAt": 1788505200000,
+      "updatedAt": 1788505200000
+    },
+    {
+      "id": "sample-b-26",
+      "date": "2026-09-05",
+      "weight": 186.4,
+      "bodyFat": 14.4,
+      "createdAt": 1788591600000,
+      "updatedAt": 1788591600000
+    },
+    {
+      "id": "sample-b-25",
+      "date": "2026-09-06",
+      "weight": 185.6,
+      "bodyFat": 14.3,
+      "createdAt": 1788678000000,
+      "updatedAt": 1788678000000
+    },
+    {
+      "id": "sample-b-24",
+      "date": "2026-09-07",
+      "weight": 186.5,
+      "bodyFat": 14.2,
+      "createdAt": 1788764400000,
+      "updatedAt": 1788764400000
+    },
+    {
+      "id": "sample-b-23",
+      "date": "2026-09-08",
+      "weight": 186.1,
+      "bodyFat": 14.2,
+      "createdAt": 1788850800000,
+      "updatedAt": 1788850800000
+    },
+    {
+      "id": "sample-b-22",
+      "date": "2026-09-09",
+      "weight": 185.5,
+      "bodyFat": 14.4,
+      "createdAt": 1788937200000,
+      "updatedAt": 1788937200000
+    },
+    {
+      "id": "sample-b-20",
+      "date": "2026-09-11",
+      "weight": 185.6,
+      "bodyFat": null,
+      "createdAt": 1789110000000,
+      "updatedAt": 1789110000000
+    },
+    {
+      "id": "sample-b-19",
+      "date": "2026-09-12",
+      "weight": 185.9,
+      "bodyFat": 14.3,
+      "createdAt": 1789196400000,
+      "updatedAt": 1789196400000
+    },
+    {
+      "id": "sample-b-17",
+      "date": "2026-09-14",
+      "weight": 185.1,
+      "bodyFat": null,
+      "createdAt": 1789369200000,
+      "updatedAt": 1789369200000
+    },
+    {
+      "id": "sample-b-16",
+      "date": "2026-09-15",
+      "weight": 185.6,
+      "bodyFat": 14,
+      "createdAt": 1789455600000,
+      "updatedAt": 1789455600000
+    },
+    {
+      "id": "sample-b-15",
+      "date": "2026-09-16",
+      "weight": 185.2,
+      "bodyFat": 14.1,
+      "createdAt": 1789542000000,
+      "updatedAt": 1789542000000
+    },
+    {
+      "id": "sample-b-14",
+      "date": "2026-09-17",
+      "weight": 185.4,
+      "bodyFat": 14,
+      "createdAt": 1789628400000,
+      "updatedAt": 1789628400000
+    },
+    {
+      "id": "sample-b-13",
+      "date": "2026-09-18",
+      "weight": 185.2,
+      "bodyFat": 14,
+      "createdAt": 1789714800000,
+      "updatedAt": 1789714800000
+    },
+    {
+      "id": "sample-b-12",
+      "date": "2026-09-19",
+      "weight": 185,
+      "bodyFat": null,
+      "createdAt": 1789801200000,
+      "updatedAt": 1789801200000
+    },
+    {
+      "id": "sample-b-9",
+      "date": "2026-09-22",
+      "weight": 185.3,
+      "bodyFat": 14,
+      "createdAt": 1790060400000,
+      "updatedAt": 1790060400000
+    },
+    {
+      "id": "sample-b-7",
+      "date": "2026-09-24",
+      "weight": 184.9,
+      "bodyFat": 14.1,
+      "createdAt": 1790233200000,
+      "updatedAt": 1790233200000
+    },
+    {
+      "id": "sample-b-6",
+      "date": "2026-09-25",
+      "weight": 184.9,
+      "bodyFat": null,
+      "createdAt": 1790319600000,
+      "updatedAt": 1790319600000
+    },
+    {
+      "id": "sample-b-5",
+      "date": "2026-09-26",
+      "weight": 185.1,
+      "bodyFat": 13.8,
+      "createdAt": 1790406000000,
+      "updatedAt": 1790406000000
+    },
+    {
+      "id": "sample-b-4",
+      "date": "2026-09-27",
+      "weight": 184.4,
+      "bodyFat": null,
+      "createdAt": 1790492400000,
+      "updatedAt": 1790492400000
+    },
+    {
+      "id": "sample-b-3",
+      "date": "2026-09-28",
+      "weight": 185.1,
+      "bodyFat": 13.9,
+      "createdAt": 1790578800000,
+      "updatedAt": 1790578800000
+    },
+    {
+      "id": "sample-b-1",
+      "date": "2026-09-30",
+      "weight": 185,
+      "bodyFat": null,
+      "createdAt": 1790751600000,
+      "updatedAt": 1790751600000
+    }
+  ]
+}

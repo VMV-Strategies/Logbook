@@ -1,0 +1,14 @@
+{
+  "name": "logbook-pwa",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Logbook: an offline-first bodybuilding logbook PWA. Plain HTML, CSS and JavaScript. No build step, no dependencies.",
+  "scripts": {
+    "dev": "node dev/serve.mjs",
+    "preview": "node dev/serve.mjs",
+    "build": "node -e \"console.log('No build step: these files are the production site. Upload them as they are.')\"",
+    "test": "TZ=America/Toronto node --test tests/logic.test.mjs && TZ=Pacific/Auckland node --test tests/logic.test.mjs && TZ=UTC node --test tests/logic.test.mjs",
+    "sample-data": "node dev/make-sample-data.mjs"
+  }
+}
